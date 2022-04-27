@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>Contact</servlet-name>
+		<servlet-class>contact</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Contact</servlet-name>
+		<url-pattern>/contact</url-pattern>
+	</servlet-mapping>
+</web-app>
